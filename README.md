@@ -27,4 +27,4 @@ In this Jupyter Notebook, we will perform an analysis of Walmart sales data for 
 * **Date**: Day of the week.
 * **Weekly_Sales**: Sales for the given department in the given store in Dollars.
 * **IsHoliday**: Whether the week is a special holiday week.
-* 
+  
